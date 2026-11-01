@@ -1,0 +1,1 @@
+{"service": "docscope", "version": 1, "enabled": true, "owners": [{"name": "Guru", "role": "maintainer"}, {"name": "CI", "role": "bot"}], "limits": {"maxFileSizeMb": 100, "formats": ["pdf", "docx", "xlsx"], "ratio": 0.75, "nothing": null}, "description": "Search for invoice inside JSON values"}

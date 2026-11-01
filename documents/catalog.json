@@ -1,0 +1,123 @@
+[
+  {
+    "id": "annual-report",
+    "file": "annual-report.pdf",
+    "name": "annual-report.pdf",
+    "type": "application/pdf",
+    "uploadedAt": "2026-09-30T10:15:00Z",
+    "uploadedBy": "Finance",
+    "description": "FY2026 annual report (6 pages)"
+  },
+  {
+    "id": "service-contract",
+    "file": "service-contract.pdf",
+    "name": "service-contract.pdf",
+    "type": "application/pdf",
+    "uploadedAt": "2026-10-02T08:40:00Z",
+    "uploadedBy": "Legal",
+    "description": "Signed service agreement (landscape)"
+  },
+  {
+    "id": "confidential-memo",
+    "file": "confidential-memo.pdf",
+    "name": "confidential-memo.pdf",
+    "type": "application/pdf",
+    "uploadedAt": "2026-10-05T12:00:00Z",
+    "uploadedBy": "HR",
+    "description": "Encrypted PDF — password: docscope",
+    "downloadable": false
+  },
+  {
+    "id": "project-proposal",
+    "file": "project-proposal.docx",
+    "name": "project-proposal.docx",
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "uploadedAt": "2026-10-08T09:30:00Z",
+    "uploadedBy": "Guru",
+    "description": "Proposal with table and image"
+  },
+  {
+    "id": "quarterly-review",
+    "file": "quarterly-review.pptx",
+    "name": "quarterly-review.pptx",
+    "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "uploadedAt": "2026-10-10T15:20:00Z",
+    "uploadedBy": "Sales",
+    "description": "Quarterly business review deck"
+  },
+  {
+    "id": "sales-charts",
+    "file": "sales-charts.pptx",
+    "name": "sales-charts.pptx",
+    "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "uploadedAt": "2026-10-11T11:05:00Z",
+    "uploadedBy": "Sales",
+    "description": "Bar, line, pie, scatter and radar charts"
+  },
+  {
+    "id": "budget",
+    "file": "budget.xlsx",
+    "name": "budget.xlsx",
+    "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "uploadedAt": "2026-10-12T07:45:00Z",
+    "uploadedBy": "Finance",
+    "description": "Read-only workbook: formulas, merges, styles"
+  },
+  {
+    "id": "customers",
+    "file": "customers.csv",
+    "name": "customers.csv",
+    "type": "text/csv",
+    "uploadedAt": "2026-10-14T13:10:00Z",
+    "uploadedBy": "CRM export"
+  },
+  {
+    "id": "release-notes",
+    "file": "release-notes.md",
+    "name": "release-notes.md",
+    "type": "text/markdown",
+    "uploadedAt": "2026-10-15T16:00:00Z",
+    "uploadedBy": "Engineering"
+  },
+  {
+    "id": "app-config",
+    "file": "app-config.json",
+    "name": "app-config.json",
+    "type": "application/json",
+    "uploadedAt": "2026-10-16T10:00:00Z",
+    "uploadedBy": "Engineering"
+  },
+  {
+    "id": "product-catalog",
+    "file": "product-catalog.xml",
+    "name": "product-catalog.xml",
+    "type": "application/xml",
+    "uploadedAt": "2026-10-17T10:00:00Z",
+    "uploadedBy": "Engineering"
+  },
+  {
+    "id": "server-log",
+    "file": "server.log",
+    "name": "server.log",
+    "type": "text/plain",
+    "uploadedAt": "2026-10-18T22:13:00Z",
+    "uploadedBy": "Ops"
+  },
+  {
+    "id": "site-photo",
+    "file": "site-photo.jpg",
+    "name": "site-photo.jpg",
+    "type": "image/jpeg",
+    "uploadedAt": "2026-10-20T09:00:00Z",
+    "uploadedBy": "Field team"
+  },
+  {
+    "id": "walkthrough",
+    "file": "walkthrough.mp4",
+    "name": "walkthrough.mp4",
+    "type": "video/mp4",
+    "uploadedAt": "2026-10-21T17:30:00Z",
+    "uploadedBy": "Field team",
+    "description": "3-second test clip"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "name": "docscope-sample",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sample app using react-docscope: private documents behind short-lived signed URLs, deployed on Vercel.",
+  "license": "MIT",
+  "author": "Gurunath Busetti",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -b",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-docscope": "^0.1.0",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "typescript": "~6.0.3",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  }
+}

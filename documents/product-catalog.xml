@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Product catalog sample -->
+<catalog xmlns:dc="http://purl.org/dc/elements/1.1/" updated="2026-10-01">
+  <book id="bk101" lang="en">
+    <dc:title>XML Developer Guide</dc:title>
+    <author>Gambardella, Matthew</author>
+    <price currency="USD">44.95</price>
+  </book>
+  <book id="bk102" lang="en">
+    <dc:title>Midnight Rain</dc:title>
+    <author>Ralls, Kim</author>
+    <price currency="USD">5.95</price>
+    <notes><![CDATA[Contains <markup> & an invoice keyword]]></notes>
+  </book>
+</catalog>
